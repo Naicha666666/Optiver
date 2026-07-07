@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec git --git-dir="$(dirname "$0")/.repo" --work-tree="$(dirname "$0")" "$@"
