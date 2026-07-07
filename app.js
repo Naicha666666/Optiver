@@ -6,7 +6,7 @@ const puzzles=[
  [{i:{metal:1},s:7,b:13},{i:{oil:1},s:17,b:19},{i:{metal:1},s:14,b:15},{i:{oil:1},s:16,b:17},{i:{gold:1},s:11,b:31},{i:{gold:1},s:10,b:21}],
  [{i:{oil:1},s:47,b:48},{i:{coin:1},s:14,b:19},{i:{oil:2,gold:1},s:123,b:133},{i:{metal:1},s:66,b:67},{i:{coin:1,metal:2},s:146,b:153},{i:{gold:1},s:25,b:26}],
  [{i:{metal:1},s:9,b:10},{i:{oil:1},s:8,b:9},{i:{oil:2,metal:2},s:39,b:40}],
- [{i:{oil:2,gold:1,coin:2},s:100,b:102},{i:{oil:1,coin:1},s:48,b:49},{i:{gold:1,coin:1},s:20,b:21},{i:{oil:1,gold:1},s:28,b:29}],
+ [{i:{oil:2,gold:2,coin:2},s:100,b:102},{i:{oil:1,coin:1},s:48,b:49},{i:{gold:1,coin:1},s:20,b:21},{i:{oil:1,gold:1},s:28,b:29}],
  [{i:{gold:1},s:60,b:71},{i:{coin:1},s:16,b:27},{i:{coin:1},s:27,b:38},{i:{gold:1},s:49,b:62},{i:{coin:1,gold:1},s:65,b:76},{i:{coin:1,gold:1},s:66,b:87}],
  [{i:{oil:2,metal:2,gold:2},s:109,b:111},{i:{metal:1,gold:1},s:8,b:10},{i:{oil:1,gold:1},s:56,b:57},{i:{oil:1,metal:1},s:49,b:54}],
  [{i:{gold:1},s:8,b:10},{i:{oil:1},s:8,b:9},{i:{gold:1},s:8,b:13},{i:{oil:1},s:4,b:14},{i:{oil:1},s:7,b:10},{i:{gold:1},s:11,b:13}],
